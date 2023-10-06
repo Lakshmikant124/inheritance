@@ -11,6 +11,7 @@ class object(product):
         super().__init__(name,mrp,mgdate)
         self.expdate = expdate
         self.is_sold = is_sold
+        #updated has been made
         
 
 obj_1 = product("Car",80,"1208")
