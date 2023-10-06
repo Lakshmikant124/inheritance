@@ -18,3 +18,4 @@ class object(product):
 
 obj_1 = object("Car",80,"1208","983",True)
 obj_1.get_product_details()
+obj_1.get_product_details()
